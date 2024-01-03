@@ -1,5 +1,5 @@
 package belajargolanglagi
 
-func Say() string {
-	return "string"
+func SayHelo(name string) string {
+	return "halo " + name
 }
